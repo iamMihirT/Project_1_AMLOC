@@ -1,1 +1,3 @@
 # Project_1_AMLOC
+This repository contains the complete code for Project 1 of COMSE6998_005_2025_1: Applied ML on Cloud. The repository includes two primary code files—one tailored for GPU-based experiments (using a Tesla T4) and one for CPU-based experiments (using an Intel Xeon). Both scripts are implemented in PyTorch and profile the performance of three neural network models (LeNet-5, ResNet-18, and a simplified Transformer) by estimating theoretical complexity, collecting practical metrics, and constructing roofline models. This codebase serves as a basis for performance analysis and evaluation of hardware-software interactions in deep learning workloads.
+
